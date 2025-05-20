@@ -1,7 +1,3 @@
-
-
----
-
 **TryHackMe Write-Up**
 
 * **Target IP:** `10.10.55.87`
