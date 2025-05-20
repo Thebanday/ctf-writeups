@@ -1,6 +1,6 @@
 **TryHackMe Write-Up: Linux Privilege Escalation**
 
-You can access the room [](https://tryhackme.com/room/linprivesc) on TryHackMe.
+You can access the room [https://tryhackme.com/room/linprivesc](https://tryhackme.com/room/linprivesc) on TryHackMe.
 
 * **Target IP:** `10.10.55.87`
 * **VPN:** Connected to TryHackMe using OpenVPN.
