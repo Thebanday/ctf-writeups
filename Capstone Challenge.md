@@ -1,3 +1,5 @@
+
+
 ---
 
 **TryHackMe Write-Up**
@@ -64,7 +66,7 @@
 
 ### 🛠 Exploitation via SUID `base64`
 
-Using GTFOBins[[gtobins.com](https://gtfobins.github.io/#), , I discovered that the `base64` command can be abused to read files as another user when SUID is set.
+Using GTFOBins[](https://gtfobins.github.io/#), I discovered that the `base64` command can be abused to read files as another user when SUID is set.
 
 * Read `/etc/shadow` using:
 
@@ -74,7 +76,7 @@ Using GTFOBins[[gtobins.com](https://gtfobins.github.io/#), , I discovered that 
 
 * Extracted the root user's password hash from the file.
 
-* Cracked the hash using [hashes.com]([https://hashes.com/en/decrypt/hash), which revealed the root password.
+* Cracked the hash using [hashes.com](https://hashes.com), which revealed the root password.
 
 ---
 
@@ -102,4 +104,3 @@ Thanks!
 
 ---
 
-Let me know if you want a Markdown version or need help writing more reports like this.
