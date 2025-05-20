@@ -74,7 +74,7 @@ Using GTFOBins[](https://gtfobins.github.io/#), I discovered that the `base64` c
 
 * Cracked the hash using [hashes.com](https://hashes.com), which revealed the root password.
 
-
+`$6$DWBzMoiprTTJ4gbW$g0szmtfn3HYFQweUPpSUCgHXZLzVii5o6PM0Q2oMmaDD9oGUSxe1yvKbnYsaSYHrUEQXTjIwOW/yrzV5HtIL51:softkittywarmkitty`
 
 ---
 
