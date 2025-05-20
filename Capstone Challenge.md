@@ -1,5 +1,3 @@
-Here's a clearer, more professional, and better-structured version of your write-up:
-
 ---
 
 **TryHackMe Write-Up**
