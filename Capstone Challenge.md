@@ -1,4 +1,4 @@
-**TryHackMe Write-Up**
+**TryHackMe Write-Up: Linux Privilege Escalation**
 
 * **Target IP:** `10.10.55.87`
 * **VPN:** Connected to TryHackMe using OpenVPN.
