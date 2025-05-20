@@ -74,6 +74,8 @@ Using GTFOBins[](https://gtfobins.github.io/#), I discovered that the `base64` c
 
 * Cracked the hash using [hashes.com](https://hashes.com), which revealed the root password.
 
+
+
 ---
 
 ### 🔐 Privilege Escalation
@@ -97,6 +99,4 @@ Using GTFOBins[](https://gtfobins.github.io/#), I discovered that the `base64` c
 **Status:** ✅ Root access achieved and both flags captured.
 
 Thanks!
-
----
 
