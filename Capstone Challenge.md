@@ -64,7 +64,7 @@ You can access the room [here](https://tryhackme.com/room/linprivesc) on TryHack
 
 ### 🛠 Exploitation via SUID `base64`
 
-Using GTFOBins[](https://gtfobins.github.io/#), I discovered that the `base64` command can be abused to read files as another user when SUID is set.
+Using GTFOBins[here](https://gtfobins.github.io/#), I discovered that the `base64` command can be abused to read files as another user when SUID is set.
 
 * Read `/etc/shadow` using:
 
