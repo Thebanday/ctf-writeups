@@ -1,6 +1,3 @@
-Here’s a cleaned-up and professional version of your **Lame (HTB) machine** write-up in **Markdown** format, including links and clear structure:
-
-````markdown
 # Hack The Box - Lame Write-Up
 
 You can access the machine [here](https://www.hackthebox.com/machines/Lame) on Hack The Box.
