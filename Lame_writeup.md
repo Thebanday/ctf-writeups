@@ -1,6 +1,6 @@
 # Hack The Box - Lame Write-Up
 
-You can access the machine [here](https://www.exploit-db.com/exploits/16320)) on Hack The Box.
+You can access the machine [here]((https://www.exploit-db.com/exploits/16320)) on Hack The Box.
 
 - **Target IP:** `10.10.10.3`
 
