@@ -1,6 +1,5 @@
 # Hack The Box - Lame Write-Up
-
-You can access the machine [here](https://www.exploit-db.com/exploits/16320) on Hack The Box.
+You can access the machine [here](https://www.hackthebox.com/machines/Lame) on Hack The Box.
 
 
 - **Target IP:** `10.10.10.3`
@@ -50,6 +49,7 @@ You can access the machine [here](https://www.exploit-db.com/exploits/16320) on 
 ## 💥 Exploitation
 
 * Found a matching exploit on [Exploit-DB](https://www.exploit-db.com/) and confirmed it was available in **Metasploit**.
+
 
 * Launched Metasploit and used the `usermap_script` exploit:
 
