@@ -41,7 +41,7 @@ You can access the machine [here](https://www.hackthebox.com/machines/Cap) on Ha
   * IP Config
   * Network Status
 
-* Observed that the **Security Snapshot** section triggered a GET request with a parameter like `?cap=1`.
+* Observed that the **Security Snapshot** section triggered a GET request with a parameter like `/data/1`.
 
 ---
 
