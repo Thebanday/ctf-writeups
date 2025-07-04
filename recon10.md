@@ -47,7 +47,9 @@ upper = np.array([100, 100, 255])
 
 
 
-You can find the full script here:[Link Text](https://github.com/Thebanday/ctf-writeups/blob/Pentesterlab/recon_script.py)
+📎 You can find the full script here:  
+👉 [Recon 10 Python Script on GitHub](https://github.com/Thebanday/ctf-writeups/blob/Pentesterlab/recon_script.py)
+
 
 
 
